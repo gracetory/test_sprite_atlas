@@ -1,0 +1,2 @@
+# test_sprite_atlas
+UnityでプレハブにSpriteAtlas画像を指定する
